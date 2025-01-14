@@ -1,0 +1,6 @@
+# Ignore data files (if too large or not necessary)
+Data/*.csv
+Data/*.xlsx
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
