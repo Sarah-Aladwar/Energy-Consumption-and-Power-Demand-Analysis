@@ -17,9 +17,6 @@ import seaborn as sns
 combined_energy_consumption = pd.read_csv('/content/drive/MyDrive/Data Science/combined_energy_consumption.csv')
 demand_energy_consumption = pd.read_csv('/content/drive/MyDrive/Data Science/demand_energy_consumption.csv')
 
-!pip install streamlit
-
-!pip install dash
 
 import streamlit as st
 import plotly.express as px
