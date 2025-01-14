@@ -11,8 +11,6 @@ import pandas as pd
 import numpy as np
 import os
 import statistics as stat
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 combined_energy_consumption = pd.read_csv('/content/drive/MyDrive/Data Science/combined_energy_consumption.csv')
 demand_energy_consumption = pd.read_csv('/content/drive/MyDrive/Data Science/demand_energy_consumption.csv')
