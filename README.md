@@ -9,7 +9,6 @@ Energy Consumption and Power Demand Analysis
 - Report/: Contains the final report in PDF format ('Energy Consumption and Power Demand Report.pdf').
 - requirements.txt: Lists the dependencies needed to run the project.
 
- Abstract
 Key objectives of this analysis include:
 - Understanding regional and temporal variations in energy consumption.
 - Applying preprocessing techniques to ensure data integrity.
