@@ -73,5 +73,3 @@ The project uses the following datasets:
  Contact
 - Prepared by: Sara Ibrahim  
 - Program: Tech Her Up - Data Science Track at Carerha 
-
-For any inquiries, please reach out through the GitHub repository's Issues section.
