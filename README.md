@@ -63,15 +63,15 @@ The project uses the following datasets:
 4. Launch the interactive dashboards by running the respective Dash app scripts.
 
  Achievements
-This project was completed as part of the Tech Her Up Program - Data Science Track and received a perfect grade of 100%.
+- This project was completed as part of the Tech Her Up Program - Data Science Track and received a perfect grade of 100%.
 
  Future Work
--Develop predictive models using machine learning techniques (e.g., time series forecasting) to predict future energy consumption trends based on historical data.
+- Develop predictive models using machine learning techniques (e.g., time series forecasting) to predict future energy consumption trends based on historical data.
 - Apply clustering algorithms to identify groups of regions or cells with similar consumption patterns, aiding in targeted energy management strategies.
 - Train classification models to predict high-demand periods based on contextual features like weather, holidays, or time of day.
 
  Contact
-Prepared by: Sara Ibrahim  
-Program: Tech Her Up - Data Science Track at Carerha 
+- Prepared by: Sara Ibrahim  
+- Program: Tech Her Up - Data Science Track at Carerha 
 
 For any inquiries, please reach out through the GitHub repository's Issues section.
