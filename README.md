@@ -1,7 +1,7 @@
 Energy Consumption and Power Demand Analysis
 
  Project Overview
-This project investigates energy consumption patterns across regions and time periods, leveraging a dataset of energy records for 2013. The analysis aims to identify significant consumption differences, optimize resource allocation, and provide actionable insights for energy management.
+- This project investigates energy consumption patterns across regions and time periods, leveraging a dataset of energy records for 2013. The analysis aims to identify significant consumption differences, optimize resource allocation, and provide actionable insights for energy management.
 
  Folder Structure
 - Data/: Contains the data files for analysis.
